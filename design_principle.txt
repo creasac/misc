@@ -1,2 +1,0 @@
-1. no compromise on speed. always try to look for ways to run things fast.
-2. 
